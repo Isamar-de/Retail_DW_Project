@@ -9,6 +9,9 @@ The data is moved from local CSV files into Snowflake using SnowSQL. Then, the d
 ## ER Diagram
 ![ER Diagram](docs/ERD.png)
 
+## Dashboard
+![Alt text](reports/Project1_Sales_DW_img.png)
+
 ## Technologies Used
 - Python
 - Snowflake
